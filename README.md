@@ -4,6 +4,6 @@ Clustering analysis can be done on the basis of features where we try to find su
 
 ## Projects I have done: 
 * Feedback of the customer on the Tripadvisor App
-* Spending Score of the Customer
+* Private or Non Private institution classification
 * Types of Wine Qualities
 
