@@ -7,3 +7,6 @@ Clustering analysis can be done on the basis of features where we try to find su
 * Private or Non Private institution classification
 * Types of Wine Qualities
 
+### Spending score of Customer- Hierarchical Clustering
+
+Grouping Of Customers Based On Their Income And Spending Score Using Agglomerative Hierarchical Clustering.
